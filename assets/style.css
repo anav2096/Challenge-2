@@ -81,4 +81,17 @@
         object-fit: cover;
         width: 100%;
       }
+
+      .image1{
+        width: 350px;
+        height:100%;
+      }
+      .image2{
+        width: 175px;
+        height:100%;
+      }
+      .image3{
+        width: 175px;
+        height:100%;
+      }
   
